@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test4\test42\bin\Debug\net7.0\test42.exe
+C:\Users\yuriy\Desktop\Test_4\test4\test42\bin\Debug\net7.0\test42.deps.json
+C:\Users\yuriy\Desktop\Test_4\test4\test42\bin\Debug\net7.0\test42.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test4\test42\bin\Debug\net7.0\test42.dll
+C:\Users\yuriy\Desktop\Test_4\test4\test42\bin\Debug\net7.0\test42.pdb
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.dll
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\refint\test42.dll
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.pdb
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\test42.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test4\test42\obj\Debug\net7.0\ref\test42.dll
